@@ -1,3 +1,9 @@
+## About 💁‍♂️
+
+フリーランスのWebエンジニアとして、React / Next.js / TypeScriptを中心に、
+業務Webアプリケーションの設計・開発・改善に携わっています。
+現在はTypeScriptバックエンドとAI支援開発にも領域を広げています。
+
 ## Featured Projects 🔨
 
 ### Frontend Architecture
