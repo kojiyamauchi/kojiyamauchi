@@ -2,13 +2,13 @@
 
 ### Frontend Architecture
 
-[next-server-components-scaffold](...)
+[next-server-components-scaffold](.../next-server-components-scaffold)
   
 Next.js App Router、React Server Components、Server Actions、Storybook、テスト、CI/CDを用いた、フロントエンド設計・開発基盤の検証プロジェクト。
 
 ### Backend Architecture
 
-[hono-app](...)
+[hono-app](.../hono-app)
   
 Hono、Bun、Prisma、PostgreSQLを用いたバックエンドAPIプロジェクト。JWT認証、Refresh Token Rotation、組織・権限管理、Transaction、OpenAPI、OpenTelemetryを実装。
 
