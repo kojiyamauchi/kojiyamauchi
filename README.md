@@ -1,4 +1,29 @@
-## Hi there 👋
+## Featured Projects 🔨
+
+### Frontend Architecture
+
+[next-server-components-scaffold](...)
+  
+Next.js App Router、React Server Components、Server Actions、Storybook、テスト、CI/CDを用いた、フロントエンド設計・開発基盤の検証プロジェクト。
+
+### Backend Architecture
+
+[hono-app](...)
+  
+Hono、Bun、Prisma、PostgreSQLを用いたバックエンドAPIプロジェクト。JWT認証、Refresh Token Rotation、組織・権限管理、Transaction、OpenAPI、OpenTelemetryを実装。
+
+## 技術スタック
+
+**Frontend** — React / Next.js / TypeScript / Tailwind CSS / etc...  
+**Backend** — Hono / Bun / Prisma / PostgreSQL / etc...  
+**Test / CI** — Vitest / Jest / Storybook / GitHub Actions / etc...  
+**Infra / Others** — Supabase / OpenTelemetry / Docker / etc...  
+
+## その他
+- いろいろ
+- リポジトリもいっぱい
+
+
 
 <!--
 **kojiyamauchi/kojiyamauchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
