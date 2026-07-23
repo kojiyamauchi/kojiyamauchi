@@ -26,8 +26,7 @@ Hono、Bun、Prisma、PostgreSQLを用いたバックエンドAPIプロジェク
 **Infra / Others** — Supabase / OpenTelemetry / Docker / Claude Code / Codex / etc...  
 
 ## その他
-- いろいろ
-- リポジトリもいっぱい
+- 他リポジトリ多数
 
 
 
